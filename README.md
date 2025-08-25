@@ -48,8 +48,8 @@ The **"Business Case: Mottu Expansion & Customer Churn Insights"** project, in p
 
 ## About the Author
 This portfolio is created and maintained by **Md Robin Jamal**.
-* LinkedIn Profile: https://www.linkedin.com/in/robinjamal
-* Personal Portfolio: https://pyakathon.github.io/robin-portfolio
+* [LinkedIn Profile](https://www.linkedin.com/in/robinjamal)
+* [Personal Portfolio](https://pyakathon.github.io/robin-portfolio)
 
 ## License
 This project is licensed under the MIT License.
