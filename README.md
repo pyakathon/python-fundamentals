@@ -1,4 +1,4 @@
-# Data Analyst & Machine Learning Course Portfolio
+# Data Analyst & Machine Learning Portfolio
 ## Overview
 This repository serves as a personal portfolio showcasing my progress and completed work for  the Complete Data Analyst Bootcamp. The goal is to document my journey, track my skill development, and provide a clear overview of the projects and assignments that demonstrate my proficiency in various data-related tasks.
 
@@ -45,6 +45,10 @@ This repository is organized into two main folders to keep the assignments and l
 My key strengths lie in transforming complex data into clear, actionable insights and developing data-driven solutions via rigorous anaysis and research that directly address business objectives.
 
 The **"Business Case: Mottu Expansion & Customer Churn Insights"** project, in particular, showcases my ability to connect data analysis to a strategic business case.
+* [Business Case: Mottu Expansion & Customer Churn Insights](https://drive.google.com/file/d/1UACBRBHFR5lnuakyM56t_NnkV26RV0U5/view?usp=sharing)
+
+**Remote Work 2020–2024:** How the U.S. and Canada Are Redefining the Future of Work
+* [Project Link](https://github.com/pyakathon/remote-work-usa-canada)
 
 ## About the Author
 This portfolio is created and maintained by **Md Robin Jamal**.
